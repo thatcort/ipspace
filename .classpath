@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="lib/javolution.jar"/>
+	<classpathentry kind="lib" path="lib/jogl.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Projects/IPSpace/lib/myCore.jar"/>
+	<classpathentry kind="lib" path="lib/itext.jar"/>
+	<classpathentry kind="lib" path="lib/pdf.jar"/>
+	<classpathentry kind="lib" path="lib/opengl.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/lib/h2/bin/h2-1.1.103.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

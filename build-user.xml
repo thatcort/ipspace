@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project basedir="." default="build">
+
+<import file="build.xml"/>
+
+<target name="makeJars" depends="build">
+	<!-- create the hotspot jar file in the deploy directory -->
+	<jar destfile="deploy/lib/ipspace.jar" basedir="bin">
+		<manifest><attribute name="Main-Class" value="com.liminal.ipspace.IPSpace"/></manifest>
+	</jar>
+</target>
+
+<target name="obfuscate" depends="makeJars">
+	<copy file="deploy/lib/ipspace.jar" toFile="deploy/ipspaceOrig.jar"/>
+	<move file="deploy/lib/ipspace.jar" toFile="deploy/lib/ipspaceOrig.jar"/>
+
+	<java jar="C:\Projects\lib\proguard\proguard3.5\lib\proguard.jar" fork="true">
+		<arg value="-basedirectory ." />
+		<arg value="@ipspace.pro" />
+	</java>
+	
+	<delete file="deploy/lib/ipspaceOrig.jar"/>
+<!--
+	<taskdef resource="C:\Projects\lib\proguard3.5\src\proguard\ant\task.properties"
+         classpath="/Projects/lib/proguard3.5/lib/proguard.jar" />
+	<proguard configuration="deploy/hotspot/hotspot.pro"/>
+-->
+</target>
+
+<target name="deploy">
+
+  <property name="p5" value="C:/processing/processing-0119"/>
+  
+    <copy toDir="deploy/lib" file="../lib/csv/opencsv-1.0/deploy/opencsv-1.0.jar"/>
+    <copy toDir="deploy/lib" file="../lib/hsqldb/hsqldb1.8.0_7/lib/hsqldb.jar"/>
+    <copy toDir="deploy/lib" file="../lib/javolution-3.7/javolution.jar"/>
+    <copy toDir="deploy/lib" file="${p5}/libraries/pdf/library/pdf.jar"/>
+    <copy toDir="deploy/lib" file="${p5}/libraries/pdf/library/itext.jar"/>
+    <copy toDir="deploy/lib">
+      <fileset dir="${p5}/libraries/opengl/library" includes="*.jar, *.dll"/>
+    </copy>
+    <copy toDir="deploy/lib" file="lib/myCore.jar"/>
+<!--
+	<copy toDir="deploy/data" file="data/roots.csv"/>
+	<copy toDir="deploy/data/db"><fileset dir="data/dbRoots20061007"/></copy>
+-->	
+</target>
+
+</project>

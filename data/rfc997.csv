@@ -1,0 +1,787 @@
+,000.rrr.rrr.rrr,Reserved                   [JBP]
+,001.rrr.rrr.rrr-003.rrr.rrr.rrr,Unassigned                 [NIC]
+R,004.rrr.rrr.rrr   SATNET,Atlantic Satellite Network [SHB]
+,005.rrr.rrr.rrr   Unassigned,Unassigned                 [NIC]
+D,006.rrr.rrr.rrr T YPG-NET-TEMP,"Yuma Proving Grounds     [4,BWA]"
+D,007.rrr.rrr.rrr T EDN-TEMP,DCEC EDN                   [EC5]
+R,008.rrr.rrr.rrr T BBN-NET-TEMP,BBN Network               [JSG5]
+,009.rrr.rrr.rrr   Unassigned,Unassigned                 [NIC]
+R,010.rrr.rrr.rrr   ARPANET,"ARPANET                  [4,SA2]"
+D,011.rrr.rrr.rrr   DODIIS,DoD INTEL INFO SYS         [AY5]
+C,012.rrr.rrr.rrr   ATT,"ATT, Bell Labs            [MH12]"
+C,013.rrr.rrr.rrr   XEROX-NET,"XEROX Internet         [30,JNL1]"
+C,014.rrr.rrr.rrr   PDN,Public Data Network        [SA2]
+R*,015.rrr.rrr.rrr   HP-INTERNET,Hewlett-Packard-Internet   [BXR]
+,016.rrr.rrr.rrr-017.rrr.rrr.rrr,Unassigned                 [NIC]
+R,018.rrr.rrr.rrr T MIT-TEMP,"MIT Network          [7,23,DDC1]"
+,019.rrr.rrr.rrr-020.rrr.rrr.rrr,Unassigned                 [NIC]
+D,021.rrr.rrr.rrr   DDN-RVN,DDN-RVN                    [MLC]
+D,022.rrr.rrr.rrr   DISNET,DISNET                    [FLM2]
+D,023.rrr.rrr.rrr   DDN-TC-NET,DDN-TestCell-Network      [DH17]
+,024.rrr.rrr.rrr   Unassigned,Unassigned                 [NIC]
+R,025.rrr.rrr.rrr   RSRE-EXP,RSRE                      [RNM1]
+D,026.rrr.rrr.rrr   MILNET,MILNET                    [FLM2]
+R,027.rrr.rrr.rrr T NOSC-LCCN-TEMP,NOSC / LCCN                [RH6]
+R,028.rrr.rrr.rrr   WIDEBAND,Wide Band Satellite Net   [CJW2]
+D,029.rrr.rrr.rrr T MILX25-TEMP,MILNET X.25 Temp           [MLC]
+D,030.rrr.rrr.rrr T ARPAX25-TEMP,ARPA X.25 Temp             [MLC]
+G,031.rrr.rrr.rrr   UCDLA-NET,UCDLA-CATALOG-NET          [CXL]
+R,032.rrr.rrr.rrr   UCL-TAC,UCL TAC                     [PK]
+,033.rrr.rrr.rrr-034.rrr.rrr.rrr,Unassigned                 [NIC]
+R,035.rrr.rrr.rrr   MERIT,MERIT COMPUTER NETWK       [HWB]
+R,036.rrr.rrr.rrr T SU-NET-TEMP,Stanford University Network[PA5]
+,037.rrr.rrr.rrr-038.rrr.rrr.rrr,Unassigned                 [NIC]
+R,039.rrr.rrr.rrr T SRINET-TEMP,SRI Local Network         [GEOF]
+,040.rrr.rrr.rrr   Unassigned,Unassigned                 [NIC]
+R,041.rrr.rrr.rrr   BBN-TEST-A,BBN-GATE-TEST-A            [RH6]
+,042.rrr.rrr.rrr-043.rrr.rrr.rrr,Unassigned                 [NIC]
+R,044.rrr.rrr.rrr   AMPRNET,Amateur Radio Experiment Net[HM]
+,045.rrr.rrr.rrr-126.rrr.rrr.rrr,Unassigned                 [NIC]
+R,127.rrr.rrr.rrr,Loopback                   [JBP]
+,128.000.rrr.rrr,Reserved                   [JBP]
+R,128.001.rrr.rrr   BBN-TEST-B,BBN-GATE-TEST-B            [RH6]
+R,128.002.rrr.rrr   CMU-NET,CMU-Ethernet              [HDW2]
+R,128.003.rrr.rrr   LBL-CSAM,LBL-CSAM-RESEARCH         [JS38]
+R,128.004.rrr.rrr   DCNET,"LINKABIT DCNET         [20,DLM1]"
+R,128.005.rrr.rrr   FORDNET,"FORD DCNET             [20,DLM1]"
+R,128.006.rrr.rrr   RUTGERS,RUTGERS                   [CLH3]
+R,128.007.rrr.rrr   DFVLR,DFVLR DCNET Network        [GB7]
+R,128.008.rrr.rrr   UMDNET,"Univ of Maryland DCNET [20,DLM1]"
+R,128.009.rrr.rrr   ISI-NET,USC-ISI Local Network      [CMR]
+R,128.010.rrr.rrr   PURDUE-CS-EN,Purdue Computer Science    [CAK]
+R,128.011.rrr.rrr   BBN-CRONUS,"BBN DOS Project         [19,WXM]"
+R,128.012.rrr.rrr   SU-NET,Stanford University Net    [LB3]
+D,128.013.rrr.rrr   MATNET,Mobile Access Terminal Net [SHB]
+R,128.014.rrr.rrr   BBN-SAT-TEST,BBN SATNET Test Net        [SHB]
+R,128.015.rrr.rrr   S1NET,LLL-S1-NET                [EAK1]
+R,128.016.rrr.rrr   UCLNET,University College London   [PK]
+D,128.017.rrr.rrr   MATNET-ALT,Mobile Access Terminal Alt [SHB]
+R,128.018.rrr.rrr   SRINET,SRI Local Network         [GEOF]
+D,128.019.rrr.rrr   EDN,DCEC EDN                   [EC5]
+D,128.020.rrr.rrr   BRLNET,"BRLNET                  [4,MJM2]"
+R,128.021.rrr.rrr   SF-PR-1,SF-1 Packet Radio Network  [JEM]
+R,128.022.rrr.rrr   SF-PR-2,SF-2 Packet Radio Network  [JEM]
+R,128.023.rrr.rrr   BBN-PR,BBN Packet Radio Network  [JBW1]
+R,128.024.rrr.rrr   ROCKWELL-PR,Rockwell Packet Radio Net  [EHP]
+D,128.025.rrr.rrr   BRAGG-PR,Ft. Bragg Packet Radio Net [JEM]
+D,128.026.rrr.rrr   SAC-PR,SAC Packet Radio Network   [BG5]
+D,128.027.rrr.rrr   DEMO-PR-1,Demo-1 Packet Radio Network[LCS]
+D,128.028.rrr.rrr   C3-PR-TEMP,Testbed Development PR NET [BG5]
+R,128.029.rrr.rrr   MITRE,"MITRE Cablenet          [29,TML]"
+R,128.030.rrr.rrr   MIT-NET,MIT Local Network         [DDC1]
+R,128.031.rrr.rrr   MIT-RES,MIT Research Network      [DDC1]
+R,128.032.rrr.rrr   UCB-ETHER,UC Berkeley Ethernet      [DAM1]
+R,128.033.rrr.rrr   BBN-NET,BBN Network               [JSG5]
+R,128.034.rrr.rrr   NOSC-LCCN,NOSC / LCCN                [RH6]
+R,128.035.rrr.rrr   CISLTESTNET1,"Honeywell          [14,15,JLM23]"
+R,128.036.rrr.rrr   YALE-NET,"YALE NET                [30,JO5]"
+D,128.037.rrr.rrr   YPG-NET,"Yuma Proving Grounds     [4,BWA]"
+D,128.038.rrr.rrr   NSWC-NET,NSWC Local Host Net       [RLH2]
+R,128.039.rrr.rrr   NTANET,NDRE-TIU                  [PS27]
+R,128.040.rrr.rrr   UCL-NET-A,UCL                       [RC77]
+R,128.041.rrr.rrr   UCL-NET-B,UCL                       [RC77]
+R,128.042.rrr.rrr   RICE-NET,"Rice University         [30,PGM]"
+R,128.043.rrr.rrr   DRENET,"Canada REF ARPANET      [4,JR17]"
+D,128.044.rrr.rrr   WSMR-NET,White Sands Network       [CAS1]
+C,128.045.rrr.rrr   DEC-WRL-NET,"DEC WRL Network        [30,RKJ2]"
+R,128.046.rrr.rrr   PURDUE-NET,Purdue Campus Network      [CAK]
+D,128.047.rrr.rrr   TACTNET,"Tactical Packet Net      [3,KTP]"
+G,128.048.rrr.rrr   UCDLA-NET-B,"UCDLA-Network-B          [4,CXL]"
+R,128.049.rrr.rrr   NOSC-ETHER,"NOSC Ethernet          [30,RLB3]"
+G,128.050.rrr.rrr   COINS,COINS On-Line Intel Net   [RLS6]
+G,128.051.rrr.rrr   COINSTNET,COINS TEST NETWORK        [RLS6]
+R,128.052.rrr.rrr   MIT-AI-NET,"MIT AI NET              [30,MDC]"
+R,128.053.rrr.rrr   SAC-PR-2,SAC PRNET Number 2         [BG5]
+R,128.054.rrr.rrr   UCSD,"UC San Diego Network   [30,GH29]"
+R*,128.055.rrr.rrr   MFENET,"LLNL MFE Network        [28,DRP]"
+D,128.056.rrr.rrr   USNA-NET,US Naval Academy Network   [TS9]
+D,128.057.rrr.rrr   DEMO-PR-2,Demo-2 Packet Radio Net    [LCS]
+C*,128.058.rrr.rrr   SPAR,"Schlumberger PA Net     [30,RXB]"
+R,128.059.rrr.rrr   CU-NET,"Columbia University     [30,LH2]"
+D,128.060.rrr.rrr   NRL-LAN,NRL Lab Area Net           [WF3]
+R*,128.061.rrr.rrr   GATECH,"Georgia Tech            [30,GXS]"
+R,128.062.rrr.rrr   MCC-NET,"MCC Corporate Net       [30,CBD]"
+R,128.063.rrr.rrr   BRL-SUBNET,BRL-SUBNET-EXP            [RBN1]
+R,128.064.rrr.rrr-128.079.rrr.rrr,Net Dynamics Exp           [ZSU]
+D,128.080.rrr.rrr   CECOMNET,CECOM EPR NET             [PFS2]
+R,128.081.rrr.rrr   SYMBOLICS,"SYMBOLICS               [30,CH2]"
+,128.082.rrr.rrr   Unassigned,Unassigned                 [NIC]
+R,128.083.rrr.rrr   UTAUSTIN,"U. Texas Austin        [30,JBC2]"
+R,128.084.rrr.rrr   CORNELL-NET,"Cornell Backbone Net    [30,BN9]"
+C*,128.085.rrr.rrr   DRILL-NET,Teleco Drilltech Net       [DBJ]
+R,128.086.rrr.rrr   MRC,UK.CO.GEC.RL.MRC          [RHC3]
+R,128.087.rrr.rrr   HIRST,UK.CO.GEC.RL.HRC          [RHC3]
+R*,128.088.rrr.rrr   HP-NET,HEWLETT-PACKARD-NET        [AXG]
+R,128.089.rrr.rrr   BBN-ENET-TEMP,"BBN ETHER NETWORK       [30,SGC]"
+C*,128.090.rrr.rrr   PQS,"PERQ SYSTEMS CORP       [30,DXS]"
+R,128.091.rrr.rrr   UPENN,"UPenn Campus Network    [30,IW5]"
+R,128.092.rrr.rrr   INTELLINET,"INTELLICORP NET        [30,DAVE]"
+R*,128.093.rrr.rrr   INRIA-ROCQU,INRIA Rocquencourt        [MXA1]
+R*,128.094.rrr.rrr   SYSNET,AT&T SYSNETWORK            [EXY]
+R,128.095.rrr.rrr   WASHINGTON,"Comp Sci Ether Net     [30,RA17]"
+C*,128.096.rrr.rrr   BELLCORE-NET,BELLCORE-NET              [PK28]
+R,128.097.rrr.rrr   UCLANET,UCLA Network              [BJL5]
+R,128.098.rrr.rrr   RSRE-EN2,RSRE-EXP-NET-2             [JXW]
+C,128.099.rrr.rrr   NORTHROP-NET,"Northrop Net           [30,RSM1]"
+R*,128.100.rrr.rrr   TORONTO,"U. of Toronto Net       [30,BXD]"
+R,128.101.rrr.rrr   UMN,Univ. of Minn.             [SSB]
+G,128.102.rrr.rrr   AMES-NET,"Ames Backbone Net.     [30,MSM1]"
+R,128.103.rrr.rrr   HARV-FIBER,"Harvard FiberOp Ether  [30,SB28]"
+R,128.104.rrr.rrr   WISC-HERD,"Univ. of Wisconsin     [30,EJN1]"
+R,128.105.rrr.rrr   WISC,"Univ. of Wisconsin      [30,CBP]"
+D,128.106.rrr.rrr   SRI-PSON-1,ADEA/SRI Ft. Lewis        [ERK3]
+D,128.107.rrr.rrr   LEWIS-PRNET1,ADEA/SRI Ft. Lewis        [ERK3]
+D,128.108.rrr.rrr   LEWIS-PRNET2,ADEA/SRI Ft. Lewis        [ERK3]
+R,128.109.rrr.rrr   TUCC-MCNC,TUCC-MCNC NC Net           [JXR]
+R,128.110.rrr.rrr   UTAH-NET,UTAH-CAMPUS-NET           [JL15]
+R,128.111.rrr.rrr   UCSB,"U of CA, Santa Barbara     [PXH]"
+R,128.112.rrr.rrr   PRINCETON,Princeton University       [LXR]
+R,128.113.rrr.rrr   RPINET,RPI-LOCALNET               [MS9]
+R,128.114.rrr.rrr   UCSC,"U.C. Santa Cruz Net     [30,JXH]"
+R,128.115.rrr.rrr   LLL-LABNET,LLNL Open Labnet         [BANDY]
+R,128.116.rrr.rrr   USAN,"UNIV SATELLITE NET      [30,BXI]"
+R,128.117.rrr.rrr   UCAR,"UNIV CORP ATM RSCH      [30,BXI]"
+R,128.118.rrr.rrr   PENN-STATE,Penn State Network        [SXS1]
+R,128.119.rrr.rrr   UMASS-CS,"UMass COINS Dept LAN    [30,GXW]"
+R,128.120.rrr.rrr   UCDAVIS,"U.C. Davis Network      [30,RXH]"
+R,128.121.rrr.rrr   JVNC-NET,John von Neumann Ctr Net  [SH37]
+R,128.122.rrr.rrr   NYU-NET,NYU Campus Network        [BJR2]
+R*,128.123.rrr.rrr   NMSU,"N M State Univ         [30,MXS3]"
+R,128.124.rrr.rrr T NTA-TEMP,NTARE BF-TO-PDP11         [TM10]
+R,128.125.rrr.rrr   USCNET,"USC Campus Network     [30,MAB4]"
+R,128.126.rrr.rrr   SDC-PRC,"SDC Paoli R&D Center   [30,MXS2]"
+C*,128.127.rrr.rrr   FTP-SOFTWARE,FTP Software Net          [JLR4]
+R,128.128.rrr.rrr   WHOINET,WHOI Campus Net           [ARM5]
+C*,128.129.rrr.rrr   CGI,Carnegie Group             [RXA]
+R*,128.130.rrr.rrr   TUNET-T,"TU Wien Terminal Net   [30,GXP1]"
+R*,128.131.rrr.rrr   TUNET-F,"TU Wien File Net       [30,GXP1]"
+G*,128.132.rrr.rrr   RADC-LONS,"RADC-LONS Net           [30,GXG]"
+G*,128.133.rrr.rrr   AFSC-LONS,"AFSC-LONS Net           [30,GXG]"
+R,128.134.rrr.rrr   SDN,"System Dev Net         [5,6,HXC]"
+R,128.135.rrr.rrr   U-CHICAGO,"UNIVERSITYOFCHICAGO    [30,MC17]"
+R,128.136.rrr.rrr   TEK-ALLNET,"Teknowledge-Net         [30,TE2]"
+C*,128.137.rrr.rrr   GENNET1,"Genentech Corp Net     [30,SXM1]"
+R,128.138.rrr.rrr   COLORADO,"U Colorado Boulder     [30,RXJ1]"
+R,128.139.rrr.rrr   ILAN,"Israel Academic Net    [30,DB35]"
+R,128.140.rrr.rrr   EMORY-INET,"Emory Internet         [30,SA29]"
+R*,128.141.rrr.rrr   CERN-ETHER,"DD Main Ethernet        [30,BXS]"
+R*,128.142.rrr.rrr   CERN-TOKEN,"DD Main IBM Token Ring  [30,BXS]"
+R*,128.143.rrr.rrr   VIRGINIA,"Univ. of Virginia      [30,JXJ1]"
+R*,128.144.rrr.rrr   ARC-CALGARY,Alta Research Calgary      [DXK]
+R,128.145.rrr.rrr   NYSERNET,NYSERNET                   [MXF]
+R,128.146.rrr.rrr   OHIO-STATE,Ohio State Univ           [RSD2]
+R,128.147.rrr.rrr   U-PGH-NET,Univ. Pittsburgh Net       [SM6]
+R,128.148.rrr.rrr   BROWN-UNIV,Brown University Net      [MXR1]
+G,128.149.rrr.rrr   JPL-NET,JPL Central Net           [MSM1]
+G,128.150.rrr.rrr   NSF-LAN,NSF-LAN                   [FW17]
+R,128.151.rrr.rrr   UR-NET,Univ. of Rochester        [TXM1]
+C*,128.152.rrr.rrr   HAC-VLSI,Hughes Aircraft VLSI Net  [PXH1]
+R,128.153.rrr.rrr   CLARKSON,Clarkson University        [JXH]
+G,128.154.rrr.rrr   GSFC-NET,GSFC Central Net          [MSM1]
+G,128.155.rrr.rrr   LARC-NET,LARC Central Net          [MSM1]
+G,128.156.rrr.rrr   LERC-NET,LERC Central Net          [MSM1]
+G,128.157.rrr.rrr   JSC-NET,JSC Central Net           [MSM1]
+G,128.158.rrr.rrr   MSFC-NET,MSFC Central Net          [MSM1]
+G,128.159.rrr.rrr   KSC-NET,KSC Central Net           [MSM1]
+G,128.160.rrr.rrr   NSTL-NET,NSTL Central Net          [MSM1]
+G,128.161.rrr.rrr   NSN-NET,NASA Science Net          [MSM1]
+C,128.162.rrr.rrr   CRAY-NET,Cray Research              [DXB]
+R,128.163.rrr.rrr   UKY,Univ of Kentucky           [GXB]
+R,128.164.rrr.rrr   GWU-GATE,George Washington U.       [TXT]
+G,128.165.rrr.rrr   LANL-INET,LANL Inter-Network        [JC11]
+D*,128.166.rrr.rrr   BAC-NET,Boeing Aerospace Corp Net [JXJ2]
+R,128.167.rrr.rrr   SURA,SURAnet                   [JXH1]
+C,128.168.rrr.rrr   GOLDHILL,Gold-Hill-Computers        [GXM]
+R,128.169.rrr.rrr   UTK,Univ Tenn-Knoxville        [JXC]
+R,128.170.rrr.rrr   SDC-CAM,SDC Camarillo R&D Net      [DSR]
+R*,128.171.rrr.rrr   HAWAII,Univ. of Hawaii            [BXC]
+R,128.172.rrr.rrr   VCU-LAN,VCU-LAN                    [JXN]
+R,128.173.rrr.rrr   VA-TECH,Virgina Tech Net           [PXB]
+R,128.174.rrr.rrr   UIUC-CAMPUS-B,UIUC Campus Network       [PXP1]
+R,128.175.rrr.rrr   UDELNET,U. of Delaware Network    [DJG2]
+R*,128.176.rrr.rrr   DMSWWU-ETHER,DMSWWU ETHERNET           [WXW1]
+C*,128.177.rrr.rrr   BLI-NET,Britton Lee Network        [EXA]
+R*,128.178.rrr.rrr   EPF-ETHER1,Ecublens Campus Net        [YXD]
+R*,128.179.rrr.rrr   EPF-ETHER2,Cedres Campus Net          [YXD]
+R*,128.180.rrr.rrr   LEHIGH,Lehigh University         [MXM2]
+C*,128.181.rrr.rrr   TEKTRONIX,Tektronix Engineering     [JXB2]
+R,128.182.rrr.rrr   PSCNET,PSC Affiliates Net        [JXE1]
+R,128.183.rrr.rrr   GSFC,GSFC NASA                 [JXB3]
+R*,128.184.rrr.rrr   DEAKINET,Deakinet Univ Net          [JXM]
+C,128.185.rrr.rrr   PROTEON-NET,Proteon Network           [JS28]
+R,128.186.rrr.rrr   FSU,Florida State Univ         [KXH]
+R*,128.187.rrr.rrr   BYU-NET,Brigham Young Net          [KXM]
+R*,128.188.rrr.rrr   M2CNET,Mass VLSI/CAD Net          [SD1]
+R*,128.189.rrr.rrr   BCNET,British Columbia Net      [DXO1]
+G,128.190.rrr.rrr   BELVOIR-G/W,BRADEC Subnet              [DXH]
+C*,128.191.rrr.rrr   NECIS-NET,NEC Info Systems Net       [DXP]
+R,128.192.rrr.rrr   UGA,UGNET                      [EXH]
+R,128.193.rrr.rrr   ORSTATE,Oregon State U. Net        [BXA]
+R,128.194.rrr.rrr   TAMU-NET,Texas A&M Univ            [WCE2]
+R,128.195.rrr.rrr   UCIICS-NET,UCI ICS Network           [RAJ3]
+R,128.196.rrr.rrr   UNIV-ARIZ,U of ARIZ Research Net    [AXG1]
+R,128.197.rrr.rrr   BU-NET,BU-NET                    [BS24]
+R*,128.198.rrr.rrr   CU-COLOSPGS,CU-Colorado-Spgs-Net       [GXT]
+R*,128.199.rrr.rrr   STC,STC PLC Company Net        [AXM]
+R,128.200.rrr.rrr   UCI-NET,UCI Campus Network        [DXW1]
+R*,128.201.rrr.rrr   RENUIR,Reseau des universites    [RXN1]
+D,128.202.rrr.rrr   2SWNET,2 SW SPACENET LAN          [JXD]
+R*,128.203.rrr.rrr   UB-INC,Ungermann-Bass Inc         [DXC]
+R,128.204.rrr.rrr   ALBNYNET,U at Albany Net            [BXC]
+R,128.205.rrr.rrr   UBUFFALONET,UNIVOFBUFFALONET           [CXD]
+R,128.206.rrr.rrr   UBUFFCSNET,UNIVOFBUFFALOCSNET         [CXD]
+,128.207.rrr.rrr-191.254.rrr.rrr,Unassigned                 [NIC]
+,191.255.rrr.rrr,Reserved                   [JBP]
+,192.000.000.rrr,Reserved                   [JBP]
+R,192.000.001.rrr   BBN-TEST-C,BBN-GATE-TEST-C            [RH6]
+R*,192.000.002.rrr   TEST,TEST                       [JBP]
+,192.000.003.rrr-192.000.255.rrr,Unassigned                 [NIC]
+R,192.001.000.rrr-192.001.004.rrr,BBN local networks         [SGC]
+R,192.001.005.rrr   BBN-ENET2,BBN-ENET2                  [SGC]
+R,192.001.006.rrr,BBN local network          [SGC]
+R,192.001.007.rrr   BBN-ENET,BBN-ENET                   [SGC]
+R,192.001.008.rrr,BBN local network          [SGC]
+R,192.001.009.rrr   BBN-ENET3,BBN-ENET3                  [SGC]
+R,192.001.010.rrr   BBN-NETR,BBN-NETR                   [SGC]
+R,192.001.011.rrr   BBN-SPC-ENET,BBN-SPC-ENET               [SGC]
+R,192.001.012.rrr-192.003.255.rrr,BBN local networks         [SGC]
+R*,192.004.000.rrr-192.004.255.rrr,"BELLCORE-NET           [30,PK28]"
+R,192.005.001.rrr   CISLHYPERNET,Honeywell                [JLM23]
+R*,192.005.002.rrr   UF-NET-A,UF-CIS Dept Ether          [AXW]
+C,192.005.003.rrr   HP-DESIGN-AIDS,HP Design Aids            [AXG]
+C,192.005.004.rrr   HP-TCG-UNIX,Hewlett Packard TCG Unix   [AXG]
+R,192.005.005.rrr   DEC-MRNET,"DEC Marlboro Ethernet   [30,KWP]"
+R,192.005.006.rrr   DEC-MRRAD,"DEC Marlboro Developmt  [30,KWP]"
+R,192.005.007.rrr   CIT-CS-NET,"Caltech-CS-Net          [33,DSW]"
+R,192.005.008.rrr   MACOMNET,MACOM Network              [SXB]
+R,192.005.009.rrr   AERONET,"Aerospace Labnet         [1,LCN]"
+R,192.005.010.rrr   ECLNET,USC-ECL-CAMPUS-NET        [MAB4]
+R,192.005.011.rrr   CSS-RING,SEISMIC-RESEARCH-NET       [RR2]
+R,192.005.012.rrr   UTAH-NET-C,UTAH-COMPUTER-SCIENCE-NET [GW22]
+R,192.005.013.rrr   GSWDNET,"Compion Network         [30,FAS]"
+R,192.005.014.rrr   RAND-NET,"RAND Network            [30,JDG]"
+R,192.005.015.rrr T NYU-NET-TEMP,NYU Network                [EF5]
+R,192.005.016.rrr   LANLLAND,"Los Alamos Dev LAN     [30,JC11]"
+R,192.005.017.rrr   NRL-NET,Naval Research Lab          [AP]
+R,192.005.018.rrr   IPTO-NET,ARPA-IPTO Office Net       [SA2]
+R,192.005.019.rrr   UCIICS,UCI-ICS Res Net            [MTR]
+R,192.005.020.rrr   CISLTTYNET,Honeywell                [JLM23]
+D,192.005.021.rrr   BRLNET1,"BRLNET1                 [4,MJM2]"
+D,192.005.022.rrr   BRLNET2,"BRLNET2                 [4,MJM2]"
+D,192.005.023.rrr   BRLNET3,"BRLNET3                 [4,MJM2]"
+D,192.005.024.rrr   BRLNET4,"BRLNET4                 [4,MJM2]"
+D,192.005.025.rrr   BRLNET5,"BRLNET5                 [4,MJM2]"
+D,192.005.026.rrr   NSRDCOA-NET,NSRDC Office Auto Net      [TXC]
+D,192.005.027.rrr   DTNSRDC-NET,DTNSRDC-NET                [TXC]
+R,192.005.028.rrr   RSRE-NULL,RSRE-NULL                 [RNM1]
+R,192.005.029.rrr   RSRE-ACC,RSRE-ACC                  [RNM1]
+R,192.005.030.rrr   RSRE-PR,RSRE-PR                   [RNM1]
+R*,192.005.031.rrr   SIEMENS-NET,Siemens Research Network   [PXN]
+R,192.005.032.rrr   CISLTESTNET2,"Honeywell         [14,15 ,JLM23]"
+R,192.005.033.rrr   CISLTESTNET3,"Honeywell          [14,15,JLM23]"
+R,192.005.034.rrr   CISLTESTNET4,"Honeywell          [14,15,JLM23]"
+R,192.005.035.rrr   RIACS,"USRA                    [30,WPJ]"
+R,192.005.036.rrr   CORNELL-CS,"CORNELL CS Research     [30,DK2]"
+R,192.005.037.rrr   UR-CS-NET,"U of R CS 3Mb Net      [30,LB16]"
+R,192.005.038.rrr   SRI-C3ETHER,"SRI-AITAD C3ETHERNET    [30,BG5]"
+R,192.005.039.rrr   UDEL-EECIS,"Udel EECIS LAN         [30,DJG2]"
+R,192.005.040.rrr   PUCC-NET-A,PURDUE Comp Cntr Net      [JRS8]
+D,192.005.041.rrr   WISLAN,"WIS Research LAN       [30,JRM1]"
+D,192.005.042.rrr   HYPER-1ISG,AFDSC Hypernet            [MCA1]
+R,192.005.043.rrr   CUCSNET,"Columbia CS Net         [30,LH2]"
+R,192.005.044.rrr   FARBER-PC-NET,Farber PC Network          [DJF]
+R,192.005.045.rrr   AIDS-NET,"AI&DS Network           [30,KFD]"
+R,192.005.046.rrr   NTA-RING,NDRE-RING                 [PS27]
+R,192.005.047.rrr   NSRDC,NSRDC                      [PXM]
+R,192.005.048.rrr   PURDUE-CS-NET,"Purdue CS Ethernet      [30,CAK]"
+R,192.005.049.rrr   UCSF,"Univ of Calif, San Fran [30,TF6]"
+R,192.005.050.rrr   CTH-CS-NET,"Chalmers CSN Net        [30,UXB]"
+R,192.005.051.rrr   THEORYNET,"Cornell Theory Center  [30,AB13]"
+R,192.005.052.rrr   NLM-ETHER,NLM-LHNCBC-ETHERNET        [JA1]
+R,192.005.053.rrr   UR-CS-ETHER,"U of R CS 10Mb Net     [30,LB16]"
+R,192.005.054.rrr   AERO-A6,"Aerospace                [1,LCN]"
+R,192.005.055.rrr   UCLA-CECS,"UCLA-CECS Network       [30,RBW]"
+C,192.005.056.rrr   TARTAN-NET,Tartan Labs                [SXB]
+R,192.005.057.rrr   UDEL-CC,"UDEL Comp Center       [30,RR18]"
+R,192.005.058.rrr   CSNET-PDN,"CSNET X.25 Network     [18,RDR4]"
+R*,192.005.059.rrr   INRIA-SM90,Inria GIP SM-90            [MXS]
+R*,192.005.060.rrr   SM90-X1,Inria SM-90 exp. 1         [MXS]
+R*,192.005.061.rrr   SM90-X2,Inria SM-90 exp. 2         [MXS]
+R*,192.005.062.rrr   LITP-SM90,LITP SM-90                 [MXS]
+R,192.005.063.rrr   ENCORE,Encore-Marlboro            [IXN]
+R,192.005.064.rrr   AMES-NAS-NET,"NASA ARC NAS LAN       [30,MF31]"
+R,192.005.065.rrr   NPRDC-Ether,NPRDC TRCF Ethernet        [LRB]
+R,192.005.066.rrr   HARV-NET,Harvard Comp Sci Net      [SB28]
+R,192.005.067.rrr   CECOM-ETHER,"CECOM ADDCOMPE ETHER    [30,GIH]"
+R,192.005.068.rrr   AERO-130,AEROSPACE-130              [LCN]
+R,192.005.069.rrr   UIUC-NET,"Univ of IL at Urbana    [30,AKC]"
+G,192.005.070.rrr   CELAN,COINS Exper. LAN           [MXM]
+R,192.005.071.rrr   SAC-ETHER,"SAC C3 Ethernet         [30,BG5]"
+R*,192.005.072.rrr   U CHICAGO,U Chicago                  [TXN]
+R,192.005.073.rrr   U CHICAGO,U Chicago                  [TXN]
+R*,192.005.074.rrr-192.005.087.rrr,U Chicago                  [TXN]
+R,192.005.088.rrr   YALE-EE-NET,"YALE-EE-NET            [30,AG22]"
+R,192.005.089.rrr   HARV-APPOLLO,"Harvard University      [2,SB28]"
+R,192.005.090.rrr   HARV-ETHER,Harvard CS Ethernet       [SB28]
+R,192.005.091.rrr   PURDUE-ECN1,"Purdue ECN           [9,17,GG11]"
+R,192.005.092.rrr   BRAGG-ETHER,"SRI Bragg Ether         [30,GIH]"
+R,192.005.093.rrr   SRI-DEMO,"SRI Ether Demo          [30,GIH]"
+R*,192.005.094.rrr   SDCRDCF-10MB,"SDC R&D primary net    [30,DJV1]"
+R*,192.005.095.rrr   SDCRDCF-3MB,"SDC R&D old net        [30,DJV1]"
+R*,192.005.096.rrr   UBC-CS-NET,"UBC Comp Sci Net        [30,PXB]"
+R*,192.005.097.rrr   UCLA-CS-LNI,UCLA CS LNI Network        [RBW]
+R*,192.005.098.rrr   UCLA-PIC,"UCLA PIC Network        [30,RBW]"
+R,192.005.099.rrr   SPACENET,"S-1 Workstation Net.    [30,TXW]"
+R*,192.005.100.rrr   HCSC-NET,"Honeywell CSC Net      [30,TRG4]"
+R,192.005.101.rrr   PUCC-NET-B,Purdue Gateway Network    [JRS8]
+R,192.005.102.rrr   PUCC-RHF-NET,PUCC RHF Based Net        [JRS8]
+C*,192.005.103.rrr   TYM-NTD-NET,Tymnet NTD Ethernet        [SMF]
+R,192.005.104.rrr   THINK-INET,"Thinking Machines      [30,BJN1]"
+R,192.005.105.rrr   CCA-POND,"CCA Ethernet1 (POND)    [34,AL6]"
+C*,192.005.106.rrr   BITSTREAM,"Bitstream Type Foundry  [30,PXA]"
+R*,192.005.107.rrr   PASC-ETHER,"IBM PASC Ethernet       [30,GXL]"
+R*,192.005.108.rrr   PASC-BB,"IBM PASC Broadband      [17,GXL]"
+R*,192.005.109.rrr   CWR-JCC-T,"ARJCC TOPS-20 NET      [30,JAG3]"
+R*,192.005.110.rrr   CWR-JCC-L,"ARJCC LOCAL NET        [30,JAG3]"
+R*,192.005.111.rrr   CWR-QUAD,"Campus QUAD NET        [30,JAG3]"
+R*,192.005.112.rrr   CWR-CAISR,"CAISR LOCAL NET        [30,JAG3]"
+R*,192.005.113.rrr   CWR-CES,CES LOCAL NET             [JAG3]
+C*,192.005.114.rrr   I2-RING-1,"INTERMETRICS PRONET     [30,NXH]"
+C*,192.005.115.rrr   I2-ETHER-1,"INTERMETRICS ETHER      [30,NXH]"
+R,192.005.116.rrr   BRAGGNET-1,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.117.rrr   BRAGGNET-2,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.118.rrr   BRAGGNET-3,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.119.rrr   BRAGGNET-4,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.120.rrr   BRAGGNET-5,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.121.rrr   BRAGGNET-6,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.122.rrr   BRAGGNET-7,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.123.rrr   BRAGGNET-8,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.124.rrr   BRAGGNET-9,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.125.rrr   BRAGGNET-10,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.126.rrr   BRAGGNET-11,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.127.rrr   BRAGGNET-12,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.128.rrr   BRAGGNET-13,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.129.rrr   BRAGGNET-14,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.130.rrr   BRAGGNET-15,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.131.rrr   BRAGGNET-16,"BRAGG/ADDCOMPE         [30,BG25]"
+R,192.005.132.rrr   BRAGGNET-17,"BRAGG/ADDCOMPE         [30,BG25]"
+R*,192.005.133.rrr   PERCEPT-AI,Perceptronics              [KXC]
+C*,192.005.134.rrr   I2-ETHER-2,"Intermetrics            [30,NH2]"
+R,192.005.135.rrr   LL-SPEECH-NET,"LL Speech Net          [30,RH60]"
+R,192.005.136.rrr   LL43-LEX-BACK,"Lincoln G43-LEX-BACK   [30,BC65]"
+R,192.005.137.rrr   LL43-LEX-SUNA,"Lincoln G43-LEX-SUNA   [30,BC65]"
+R,192.005.138.rrr   LL43-LEX-SUNB,"Lincoln G43-LEX-SUNB   [30,BC65]"
+R,192.005.139.rrr   LL43-LEX-APO,"Lincoln G43-LEX-APO    [30,BC65]"
+R,192.005.140.rrr   LL43-TB-BACK,"Lincoln G43-TB-BACK    [30,BC65]"
+R,192.005.141.rrr   LL43-TB-APO,"Lincoln G43-TB-APO     [30,BC65]"
+R*,192.005.142.rrr   CCVR,"CCVR Network            [30,RXD]"
+R,192.005.143.rrr   NWU,NORTHWESTERN               [AXS]
+R,192.005.144.rrr   CRE-NET,CANADA-CRC-ETHERNET       [JR17]
+R,192.005.145.rrr   ECRC-SL,ECRC-SL Net                [PXD]
+R,192.005.146.rrr   CPW-PSC,Pittsburgh SC Center       [MXL]
+R,192.005.147.rrr   ALV-ETHER,MMDAALVVAX                 [LXR]
+R,192.005.148.rrr   DISE,Dist Sys Eval Envir       [RHS4]
+R,192.005.149.rrr   RDL-ETHER,"RDL                    [30,MXS1]"
+G*,192.005.150.rrr   SP-ACE-NET,"Sperry Space Sys Net    [30,JXM]"
+R,192.005.151.rrr   PENN-STATE-1,Penn State Network        [SXS1]
+R,192.005.152.rrr   PENN-STATE-2,Penn State Network        [SXS1]
+R,192.005.153.rrr   PENN-STATE-3,Penn State Network        [SXS1]
+R,192.005.154.rrr   PENN-STATE-4,Penn State Network        [SXS1]
+R,192.005.155.rrr   PENN-STATE-5,Penn State Network        [SXS1]
+R,192.005.156.rrr   PENN-STATE-6,Penn State Network        [SXS1]
+R,192.005.157.rrr   PENN-STATE-7,Penn State Network        [SXS1]
+R,192.005.158.rrr   PENN-STATE-8,Penn State Network        [SXS1]
+R,192.005.159.rrr   PENN-STATE-9,Penn State Network        [SXS1]
+R,192.005.160.rrr   PENN-STATE-10,Penn State Network        [SXS1]
+R,192.005.161.rrr   PENN-STATE-11,Penn State Network        [SXS1]
+R,192.005.162.rrr   PENN-STATE-12,Penn State Network        [SXS1]
+C*,192.005.163.rrr   I2-SPDNET-1,"I2 SPD Ethernet         [30,NH2]"
+C,192.005.164.rrr   GTEECN,"GTE Eng Net             [30,JXE]"
+R,192.005.165.rrr   SDC-CAM-1,SDC Camarillo R&D Net      [DSR]
+R*,192.005.166.rrr   CRC-WDC-NET,CRC Washington DC         [GEOF]
+R,192.005.167.rrr   MCC-AI-NET,"MCC AI Subnet           [30,CBD]"
+R,192.005.168.rrr   MCC-CAD2-NET,"MCC CAD2 Subnet         [30,CBD]"
+R,192.005.169.rrr   MCC-PKG-NET,"MCC PKG Subnet          [30,CBD]"
+G,192.005.170.rrr   ANLNET1,"Argonne Network        [30,LW26]"
+G,192.005.171.rrr   ANLNET2,"Argonne Network        [30,LW26]"
+G,192.005.172.rrr   ANLNET3,"Argonne Network        [30,LW26]"
+G,192.005.173.rrr   ANLNET4,"Argonne Network        [30,LW26]"
+G,192.005.174.rrr   ANLNET5,"Argonne Network        [30,LW26]"
+G,192.005.175.rrr   ANLNET6,"Argonne Network        [30,LW26]"
+G,192.005.176.rrr   ANLNET7,"Argonne Network        [30,LW26]"
+G,192.005.177.rrr   ANLNET8,"Argonne Network        [30,LW26]"
+G,192.005.178.rrr   ANLNET9,"Argonne Network        [30,LW26]"
+G,192.005.179.rrr   ANLNET10,"Argonne Network        [30,LW26]"
+G,192.005.180.rrr   ANLNET11,"Argonne Network        [30,LW26]"
+G,192.005.181.rrr   ANLNET12,"Argonne Network        [30,LW26]"
+G,192.005.182.rrr   ANLNET13,"Argonne Network        [30,LW26]"
+G,192.005.183.rrr   ANLNET14,"Argonne Network        [30,LW26]"
+G,192.005.184.rrr   ANLNET15,"Argonne Network        [30,LW26]"
+G,192.005.185.rrr   ANLNET16,"Argonne Network        [30,LW26]"
+G,192.005.186.rrr   ANLNET17,"Argonne Network        [30,LW26]"
+G,192.005.187.rrr   ANLNET18,"Argonne Network        [30,LW26]"
+G,192.005.188.rrr   ANLNET19,"Argonne Network        [30,LW26]"
+G,192.005.189.rrr   ANLNET20,"Argonne Network        [30,LW26]"
+G,192.005.190.rrr   ANLNET21,"Argonne Network        [30,LW26]"
+G,192.005.191.rrr   ANLNET22,"Argonne Network        [30,LW26]"
+G,192.005.192.rrr   ANLNET23,"Argonne Network        [30,LW26]"
+G,192.005.193.rrr   ANLNET24,"Argonne Network        [30,LW26]"
+G,192.005.194.rrr   ANLNET25,"Argonne Network        [30,LW26]"
+G,192.005.195.rrr   ANLNET26,"Argonne Network        [30,LW26]"
+G,192.005.196.rrr   ANLNET27,"Argonne Network        [30,LW26]"
+G,192.005.197.rrr   ANLNET28,"Argonne Network        [30,LW26]"
+G,192.005.198.rrr   ANLNET29,"Argonne Network        [30,LW26]"
+G,192.005.199.rrr   ANLNET30,"Argonne Network        [30,LW26]"
+G,192.005.200.rrr   ANLNET31,"Argonne Network        [30,LW26]"
+G,192.005.201.rrr   ANLNET32,"Argonne Network        [30,LW26]"
+R,192.005.202.rrr   FMC-CEL,"FMC-CEL Host Net       [30,BXL1]"
+R*,192.005.203.rrr   OKSTATE-CS,"Okla. St. CS Network    [30,MXV]"
+R,192.005.204.rrr   SKL-ENET,Canada_SKL_ethernet       [JR17]
+R*,192.005.205.rrr   ARC-CALGARY,Alta Research Calgary      [DXK]
+R,192.005.206.rrr   BU-MATHNET,BU-MATHNET                [BS24]
+R,192.005.207.rrr   BU-CHEMNET,BU-CHEMNET                [BS24]
+R,192.005.208.rrr   BU-CLANNET,BU-CLANNET                [BS24]
+D,192.005.209.rrr   SSDF-CDCNET,CDC-DDN-DEVELOPMENT        [RXE]
+G,192.005.210.rrr   ECSNET,Embedded Comp Sys Net     [CAL7]
+R,192.005.211.rrr   INTEL-IWARP,"Intel iWarp Net         [30,BT5]"
+R,192.005.212.rrr T EMORY-INET4,Emory Internet 4          [SA29]
+R,192.005.213.rrr   HARRIS,Harris-GSSNet             [DXT1]
+C*,192.005.214.rrr   DECUACNET,"Decuac Network          [30,FXA]"
+R,192.005.215.rrr   MASONNET,"GMU Network            [30,TH15]"
+R*,192.005.216.rrr   NTT-NET,"NTT Research Lab Net    [30,YXS]"
+R,192.005.217.rrr   YALE-ZOO-NET,Yale Apollo Ed Net        [RC77]
+R,192.005.218.rrr   ARINC-GW-NET,Yale Apollo Ed Net         [YXN]
+R,192.005.219.rrr   CLEMSON,Clemson Univ Comp Center   [DXB]
+C*,192.005.220.rrr   SCCNET,SPACECOM IP Network        [MXO]
+C*,192.005.221.rrr   CSC-LONS,"CSC-LONS Network        [30,GXG]"
+C*,192.005.222.rrr   CSC-OIS,"CSC-OIS Network         [30,GXG]"
+R*,192.005.223.rrr   HWELL-RE,"HWELL-RESD-ENGRG        [30,PXP]"
+D*,192.005.224.rrr   HAIC-NET,"Hughes AI Center Net    [30,DXK]"
+C*,192.005.225.rrr-192.005.236.rrr,"GE CALMA BLOCK          [30,TXR]"
+C*,192.005.237.rrr   PRIME-AI,"Prime AI CAD/CAM        [22,NXS]"
+C*,192.005.238.rrr   PALLADIAN-1,Palladian-IN1           [CSTACY]
+C*,192.005.239.rrr   PALLADIAN-2,Palladian-RING          [CSTACY]
+C*,192.005.240.rrr   PALLADIAN-3,Palladian-IN2           [CSTACY]
+R,192.005.241.rrr   USC-CYPRESS,"USC Cypress Network      [8,DXE]"
+C*,192.005.242.rrr   MOT-ASIC,Motorola Chandler LAN     [GXW1]
+C*,192.005.243.rrr   MOT-MESA,Motorola Mesa LAN         [GXW1]
+C*,192.005.244.rrr   MOT-DOVER,Motorola Dover LAN        [GXW1]
+C*,192.005.245.rrr   MOT-PRICE,Motorola Prince Road LAN  [GXW1]
+C*,192.005.246.rrr   MOT-PICO,Motorola Pico LAN         [GXW1]
+C*,192.005.247.rrr   MOT-52ND,Motorola Semi MIS LAN     [GXW1]
+C*,192.005.248.rrr   MOT-AUSTIN,Motorola Austin LAN       [GXW1]
+C*,192.005.249.rrr   MOT-OAKHILL,Motorola Oakhill LAN      [GXW1]
+C*,192.005.250.rrr   MOT-TELAVIV,Motorola Tel Aviv LAN     [GXW1]
+C*,192.005.251.rrr   MOT-GENEVA,Motorola Geneva LAN       [GXW1]
+C*,192.005.252.rrr   MOT-TOKYO,Motorola Tokyo LAN        [GXW1]
+C*,192.005.253.rrr   MOT-HONGKONG,Motorola Hongkong LAN     [GXW1]
+R*,192.005.254.rrr   ANSA,"ANSA Project            [30,DXO]"
+,192.005.255.rrr   Unassigned,Unassigned                 [NIC]
+C*,192.006.000.rrr-192.006.255.rrr,Hewlett Packard            [AXG]
+C*,192.007.000.rrr-192.007.255.rrr,"Computer Consoles, Inc.   [RA11]"
+C*,192.008.000.rrr-192.008.255.rrr,"Spartacus Computers, Inc.  [SXM]"
+C*,192.009.000.rrr-192.009.255.rrr,"SUN Microsystems, Inc.     [BN4]"
+C*,192.010.000.rrr-192.010.040.rrr,"Symbolics, Inc.            [CH2]"
+R,192.010.041.rrr T SCRC-ETHERNET,"SCRC ETHERNET           [30,CH2]"
+C*,192.010.042.rrr-192.010.255.rrr,"Symbolics, Inc.            [CH2]"
+C*,192.011.000.rrr-192.011.255.rrr,"ATT, Bell Labs            [MH12]"
+R,192.012.000.rrr   YALE-SUN-NET,YALE-SUN-NET               [LFO]
+,192.012.001.rrr   Unassigned,Unassigned                 [NIC]
+,192.012.002.rrr   Unassigned,Unassigned                 [NIC]
+C*,192.012.003.rrr   FLAIR,"Fairchild AI Lab Net   [30,AMS1]"
+C*,192.012.004.rrr   SCG-NET,"Hughes SCG Net          [32,MXP]"
+R,192.012.005.rrr   AIC-LISPMS,"SRI-AIC-LispMachNet     [30,PM4]"
+R,192.012.006.rrr   NPS-C2,"NPS-C2                  [30,AW9]"
+R,192.012.007.rrr T NYU-CS-ETHER,"NYU CompSci Ethernet    [30,LOU]"
+D,192.012.008.rrr   PICANET1,"Picatinny Arsenal LAN1 [30,RFD1]"
+R,192.012.009.rrr T CADRE-NET,Decision Systems Lab       [SM6]
+R,192.012.010.rrr   CORNELL-ENG,"Cornell-Engineering     [30,BN9]"
+R,192.012.011.rrr   MIT-TEST,"MIT Gateway TEST NET    [30,NC3]"
+G,192.012.012.rrr   NBS,NBS Network               [JCN2]
+R,192.012.013.rrr   JHU-NET1,"JHU-NET1               [30,MO14]"
+R,192.012.014.rrr   JHU-NET2,"JHU-NET2               [30,MO14]"
+R,192.012.015.rrr   BROOKNET,"BNL Brooknet III         [30,GC]"
+R,192.012.016.rrr   PRMNET,"SRI-SURAN-EN           [30,BP17]"
+G,192.012.017.rrr   LLL-TIS-NET,"LLL-TIS-NET          [30,32,NAL]"
+R,192.012.018.rrr   CIT-CS-10NET,"Caltech 10Meg EtherNet [33,AD22]"
+R,192.012.019.rrr   CIT-NET,"Caltech Campus Net     [33,AD22]"
+R,192.012.020.rrr   CIT-SUN-NET,"Caltech Sun Net        [33,AD22]"
+R,192.012.021.rrr   CIT-PHYSCOMP,"Caltech Phys Comp Net  [33,AD22]"
+R,192.012.022.rrr   UTCSRES,"UTCS Net Research      [30,JBC2]"
+R,192.012.023.rrr   UTCSTTY,"UTCS TTY Kludgenet     [30,JBC2]"
+R,192.012.024.rrr   MICANET,MITRE (Experimental)       [WDL]
+R,192.012.025.rrr   CSS-GRAMINAE,"CSS Workstation Net     [16,RR2]"
+R,192.012.026.rrr   NOSC-NETR,"Net-R Testbed at BBN   [26,CP10]"
+R,192.012.027.rrr   UR-LASER,"UR Laser Energetics     [30,WXL]"
+R*,192.012.028.rrr   RIACS-X-NET,RIACS-Experimental-Net    [DG28]
+D,192.012.029.rrr   RF-EVANS,"ADDCOMPE DC3 LAN1      [30,MB31]"
+D,192.012.030.rrr   RF-HEX-A,"ADDCOMPE DC3 LAN2      [30,MB31]"
+D,192.012.031.rrr   USNA-ENET,"USNA Engineering Net    [30,TS9]"
+R*,192.012.032.rrr   CMU-VINEYARD,"CMU File Cluster Net    [30,MXK]"
+R,192.012.033.rrr   SRI-CSL-NET,SRI-CSL 10MB Ethernet     [GEOF]
+C*,192.012.034.rrr-192.012.043.rrr,"Schlumberger PA Net     [30,RXB]"
+R,192.012.044.rrr T NRTC-NET,"Northrop Research Net  [30,RSM1]"
+R,192.012.045.rrr   ACC-SB-IMP-NET,ACC Santa Barbara IMP    [AB20]
+R,192.012.046.rrr   ACC-SB-ETHER,ACC Santa Barbara Ethernet[AB20]
+R,192.012.047.rrr   UMN-UCC-NET,Univ. of Minnesota        [RG12]
+G,192.012.048.rrr   AMES-ED-EXPNET,"Code ED Exp. Net.     [30,MSM1]"
+G,192.012.049.rrr   AMES-ED-NET,"Code ED IP Net         [30,MSM1]"
+G,192.012.050.rrr   AMES-DB-NET,"Ames DBridge Net       [30,MSM1]"
+R,192.012.051.rrr   THINK-CHAOS,"TMC Chaos              [30,BJN1]"
+R*,192.012.052.rrr   NEURO-NET,"NEURO-NET               [30,JXB]"
+R*,192.012.053.rrr   PU-LCA,"Princeton U. LCA        [30,CXH]"
+R,192.012.054.rrr   AERO-A3,Aerospace                 [AWS3]
+R,192.012.055.rrr   HAZ-LPR-BETA,"Hazeltine LPR Net      [30,KO11]"
+R,192.012.056.rrr   UTAH-AP-NET,Utah-Appolo-Ring-Net      [JL15]
+R,192.012.057.rrr   MCC-CAD-NET,"MCC CAD Subnet          [30,CBD]"
+R,192.012.058.rrr   MCC-PP-NET,"MCC AI Subnet           [30,CBD]"
+R,192.012.059.rrr   MCC-DB-NET,"MCC DB Subnet           [30,CBD]"
+R,192.012.060.rrr   MCC-HI-NET,"MCC HI Subnet           [30,CBD]"
+R,192.012.061.rrr   MCC-SW-NET,"MCC SW Subnet           [30,CBD]"
+R,192.012.062.rrr   DREA-ENET,"DREA Lispm & Vaxen     [30,GLH5]"
+R,192.012.063.rrr   CYPRESS,CYPRESS Serial Net         [CAK]
+D,192.012.064.rrr   LOGNET,"Logistics Net GW        [4,JR15]"
+D,192.012.065.rrr   HELNET1,"HELNET1                [30,MJM2]"
+D,192.012.066.rrr   HELNET2,"HELNET2                [30,MJM2]"
+D,192.012.067.rrr   HELNET3,HELNET3                   [MJM2]
+G,192.012.068.rrr   ORNL-MSRNET,"ORNL Local Area Net       [4,HD]"
+R,192.012.069.rrr   UA-CS-NET,"UNIV. OF ARIZ-CS DEPT  [30,BM40]"
+R,192.012.070.rrr   NPRDC-IPD,NPRDC-IPD REMOTE ETHERNET  [LRB]
+R,192.012.071.rrr   NPRDC-ISG,NPRDC-ISG REMOTE ETHERNET  [LRB]
+R,192.012.072.rrr   ULCC,UK.AC.ULCC                [RHC3]
+R,192.012.073.rrr   BTRL,UK.CO.BT-RESEARCH-LABS    [RHC3]
+R*,192.012.074.rrr   APPLE-ETHER,"APPLE COMPUTER ETHER    [30,RXJ]"
+R*,192.012.075.rrr   PASC-RING,IBM PASC TOKEN RING        [GXL]
+R*,192.012.076.rrr   UQ-NET,"UNIV. OF QLD NETWORK    [30,AXH]"
+C*,192.012.077.rrr   PRIME,"PRIME COMPUTER, INC.       [FXS]"
+C*,192.012.078.rrr   GENNET,"GENENTECH NET           [30,SXM]"
+C*,192.012.079.rrr   SLI,SOFTWARE LEVERAGE INC.     [MXG]
+R,192.012.080.rrr   CAEN,UMICH-CAEN                 [HWB]
+R,192.012.081.rrr   YALE-RING-NET,YALE RESEARCH RING        [RC77]
+C,192.012.082.rrr   CU-CC-NET,"Columbia CC Net        [30,BC14]"
+G,192.012.083.rrr   UCDLA-EXNET,UCDLA EXPERIMENTAL NET     [CXL]
+G,192.012.084.rrr   UCDLA-PCNET,UCDLA PERSONAL NET         [CXL]
+G,192.012.085.rrr   UCDLA-OPNET,UCDLA OPTICAL DISK         [CXL]
+G,192.012.086.rrr   UCDLA-RADNET,UCDLA PACKET RADIO         [CXL]
+G,192.012.087.rrr   UCDLA-CSLNET,UCDLA STATE LIBRARY        [CXL]
+R*,192.012.088.rrr   RUTGERS-NWK,"RUTGERS, NEWARK            [DXB]"
+R,192.012.089.rrr   SBCS-CSDEPT-1,SB Computer Science        [JXS]
+R,192.012.090.rrr   SBCS-CSDEPT-2,SB Computer Science        [JXS]
+R,192.012.091.rrr   RPICSNET0,RPICS-LOCALNET-0           [MS9]
+R,192.012.092.rrr   RPICSNET1,RPICS-LOCALNET-1           [MS9]
+R,192.012.093.rrr   RPICSNET2,RPICS-LOCALNET-2           [MS9]
+R,192.012.094.rrr   RPICSNET3,RPICS-LOCALNET-3           [MS9]
+R,192.012.095.rrr   RPICSNET4,RPICS-LOCALNET-4           [MS9]
+R,192.012.096.rrr   RPICSNET5,RPICS-LOCALNET-5           [MS9]
+R,192.012.097.rrr   RPICSNET6,RPICS-LOCALNET-6           [MS9]
+R,192.012.098.rrr   RPICSNET7,RPICS-LOCALNET-7           [MS9]
+R,192.012.099.rrr   RPICSNET8,RPICS-LOCALNET-8           [MS9]
+R,192.012.100.rrr   RPICSNET9,RPICS-LOCALNET-9           [MS9]
+R*,192.012.101.rrr   OSU-CGRG,"OSU Computer Graphics   [30,KXS]"
+G,192.012.102.rrr   AMES-NAS-HY,AMES NAS HY NET           [MF31]
+R,192.012.103.rrr   CSU-USCETHER,Colorado State Univ Nets  [RXB1]
+R,192.012.104.rrr   CSUNRELETHER,Colorado State Univ Nets  [RXB1]
+R,192.012.105.rrr   CSU-ASYNC,Colorado State Univ Nets  [RXB1]
+R,192.012.106.rrr   CSU-LANCE,Colorado State Univ Nets  [RXB1]
+R,192.012.107.rrr   CSU-ATMOS,Colorado State Univ Nets  [RXB1]
+R,192.012.108.rrr   CSU-UCC-ETHER,Colorado State Univ Nets  [RXB1]
+R*,192.012.109.rrr-192.012.118.rrr,Colorado State Univ Nets  [RXB1]
+G,192.012.119.rrr   ICST,"ICST Network           [30,JCN2]"
+D,192.012.120.rrr   MITRE-B-NET,MITRE BEDFORD ETHER        [BSW]
+R*,192.012.121.rrr   FSUCS,FSU COMPUTER SCIENCE 1     [TXB]
+R*,192.012.122.rrr   FSUCS2,FSU COMPUTER SCIENCE 2     [TXB]
+G,192.012.123.rrr   AMES-CCF-NET,"AMES CCF NETWORK       [30,MSM1]"
+D,192.012.124.rrr   ETL-LAN,"ETL LOCAL AREA NET      [30,WWS]"
+D,192.012.125.rrr   CRDC-NET1,"CRDC-NET1               [30,JXY]"
+D,192.012.126.rrr   CRDC-NET2,"CRDC-NET2               [30,JXY]"
+R,192.012.127.rrr   LL-MI-NET,"LL-Machine Intell.      [30,GAA]"
+R,192.012.128.rrr   AITAC-ADMIN,"SRI-AITAC ADMIN NET     [30,DVC]"
+C*,192.012.129.rrr   SYM-CAN,Symbolics/Canada           [MXH]
+R,192.012.130.rrr   SDC-SM,SDC Santa Monica           [CAS]
+R,192.012.131.rrr   SAC-ADMIN,"SRI-SAC ADMIN NET      [30,KMC3]"
+R,192.012.132.rrr   LLL-MON,"LLL Open Labnet-1     [30,BANDY]"
+R,192.012.133.rrr   LLL-TUE,"LLL Open Labnet-2     [30,BANDY]"
+R,192.012.134.rrr   LLL-WED,"LLL Open Labnet-3     [30,BANDY]"
+R,192.012.135.rrr   LLL-THU,"LLL Open Labnet-4     [30,BANDY]"
+R,192.012.136.rrr   LLL-FRI,"LLL Open Labnet-5     [30,BANDY]"
+R,192.012.137.rrr   LLL-SAT,"LLL Open Labnet-6     [30,BANDY]"
+R,192.012.138.rrr   LLL-SUN,"LLL Open Labnet-7     [30,BANDY]"
+D,192.012.139.rrr   JTELS-BEN-GW,JUMPS Teleprocessing      [RR26]
+R*,192.012.140.rrr   INFERENCE,INFERENCE                  [DXT]
+R,192.012.141.rrr   CSS-ETHER,CSS Workstation Net 2     [RA11]
+C*,192.012.142.rrr   SENTRY,Sentry Adv. Prod. Net      [LXL]
+C*,192.012.143.rrr   VHSIC-NET,Sentry VHSIC Test          [LXL]
+R,192.012.144.rrr   ECRCNET,"ECRC Internet           [30,PXD]"
+C*,192.012.145.rrr-192.012.154.rrr,"RCA-CADNET              [30,RXG]"
+C*,192.012.155.rrr-192.012.170.rrr,MTCS-CUST                  [SXF]
+D,192.012.171.rrr   PICANET2,Picatinny Arsenal 2       [RFD1]
+R,192.012.172.rrr   ROCKWELLENET,ROCKWELL ETHERNET           [NG]
+R,192.012.173.rrr   AERO-D8,Aerospace                 [AWS3]
+R*,192.012.174.rrr-192.012.183.rrr,"TORONTO                 [30,BXD]"
+R,192.012.184.rrr   DSPO-NET,BRL Hyper Proj Net         [BT5]
+R,192.012.185.rrr   BU-NET,BU COMPUTING              [BS24]
+R,192.012.186.rrr   BU-ACCNET,BU ACADEMIC               [BS24]
+R,192.012.187.rrr   BU-BROADB,BU BROADBAND              [BS24]
+R,192.012.188.rrr   BU-SCINET,BU SCIENCE                [BS24]
+R,192.012.189.rrr   BU-ENGNET,BU ENGINEERING            [BS24]
+R,192.012.190.rrr   BU-DSGNET,BU DIST SYS               [BS24]
+R,192.012.191.rrr   BU-MEDNET,BU MED SCHOOL             [BS24]
+R,192.012.192.rrr   CNUCE-LAN1,CNR Pisa Ethernet         [ABB2]
+R,192.012.193.rrr   CNUCE-LAN2,CNR Pisa Ethernet         [ABB2]
+R,192.012.194.rrr   CNUCE-LAN3,CNR Pisa Ethernet         [ABB2]
+R,192.012.195.rrr   SDC-PRC-NET,SDC Paoli R&D Center      [MXS2]
+D,192.012.196.rrr   JHUAPL-NET,"JHU APL Net            [30,SAK3]"
+D,192.012.197.rrr   ACATT-ETHER1,"ADEA/CECOM Adv Tech    [30,ERK3]"
+D,192.012.198.rrr   ACATT-ETHER2,"ADEA/CECOM Adv Tech    [30,ERK3]"
+D,192.012.199.rrr   LEWIS-ETHER1,"ADEA/SRI Ft. Lewis     [30,ERK3]"
+D,192.012.200.rrr   SRI-PSON-10,"ADEA/SRI Ft. Lewis     [30,ERK3]"
+D,192.012.201.rrr   SRI-PSON-11,"ADEA/SRI Ft. Lewis     [30,ERK3]"
+D,192.012.202.rrr   SRI-PSON-12,"ADEA/SRI Ft. Lewis     [30,ERK3]"
+D,192.012.203.rrr   SRI-PSON-13,"ADEA/SRI Ft. Lewis     [30,ERK3]"
+D,192.012.204.rrr   SRI-PSON-14,"ADEA/SRI Ft. Lewis     [30,ERK3]"
+R,192.012.205.rrr   OHIO-STATE1,Ohio State Univ.          [RSD2]
+R,192.012.206.rrr   INDIANA,Indiana-Bloomington       [BXS1]
+R,192.012.207.rrr   SUPERCOMP,SDSC-Supercomputer         [SIP]
+,192.012.208.rrr   Unassigned,Unassigned                 [NIC]
+R,192.012.209.rrr   NSF,NSF Internal Net          [FW17]
+R*,192.012.210.rrr   NORTHEASTERN,Northeastern Univ.         [CXJ]
+R,192.012.211.rrr   JVNC,NSF/JVNC Net               [HXH]
+R,192.012.212.rrr   RAND-NET2,RAND-NET2                  [JDG]
+R,192.012.213.rrr   RAND-NET3,RAND-NET3                  [JDG]
+R*,192.012.214.rrr   BUFFALO-CS,"SUNY/Buffalo-CS-Ether  [30,JRL8]"
+R,192.012.215.rrr   XDRENET,DRE X.25 COMPONENT        [JR17]
+R,192.012.216.rrr   STEVENS-TECH,"Stevens Inst of Tech    [30,RXM]"
+R,192.012.217.rrr T EMORY-INET1,"Emory Internet         [30,SA29]"
+R,192.012.218.rrr T EMORY-INET2,"Emory Internet         [30,SA29]"
+R,192.012.219.rrr T EMORY-INET3,"Emory Internet         [30,SA29]"
+R,192.012.220.rrr-192.012.234.rrr,"UWISC-IPNET            [30,EJN1]"
+R*,192.012.235.rrr   IDA-NET,Comp Sc Linkoping S       [MXA2]
+R,192.012.236.rrr   CITNET,"CIT Campus Net          [30,CXB]"
+R*,192.012.237.rrr   HCSC-APOLLO,"Honeywell CSC Apollo    [2,TRG4]"
+R*,192.012.238.rrr   CU-BOULDER,"CU Boulder Campus       [30,DXW]"
+R*,192.012.239.rrr   CU-ACS,"CU ACS Net              [30,DXW]"
+R*,192.012.240.rrr   CU-ENGINEER,"CU Engineering Net      [30,DXW]"
+R*,192.012.241.rrr   CU-SUNNET,"CU Sun Net              [30,DXW]"
+R*,192.012.242.rrr   CU-CER,"CU CER Net              [30,DXW]"
+R*,192.012.243.rrr   CU-OT,"CU Office Tower         [30,DXW]"
+R*,192.012.244.rrr   CU-ENTERPRISE,"CU ECE Sun Net          [30,DXW]"
+R*,192.012.245.rrr   CU-LASP,"CU LASP Net             [30,DXW]"
+R*,192.012.246.rrr   CU-JILA,"CU JILA Net             [30,DXW]"
+R*,192.012.247.rrr   CU-PHYSICS,"CU Physics Net          [30,DXW]"
+R*,192.012.248.rrr   CU-PSYCHOLOGY,"CU Psychology Net       [30,DXW]"
+R*,192.012.249.rrr   CU-MCDB,"CU MCDB Net             [30,DXW]"
+R*,192.012.250.rrr   CU-AI,"CU AI Consortium        [30,DXW]"
+R*,192.012.251.rrr   CU-CHEMISTRY,"CU Chemistry Net        [30,DXW]"
+R,192.012.252.rrr   LL-VENET1,"Linclon Labs Venet1    [30,BC65]"
+R,192.012.253.rrr   LL-VENET2,"Linclon Labs Venet2    [30,BC65]"
+R,192.012.254.rrr   LL-APOLLO,"Linclon Labs Apollo    [30,BC65]"
+R,192.012.255.rrr   LL-ENET,"Linclon Labs Enet      [30,BC65]"
+D,192.013.000.rrr-192.014.255.rrr,DODIIS Subnetworks         [AY5]
+C*,192.015.000.rrr-192.015.255.rrr,NBINET                     [WW2]
+G,192.016.000.rrr-192.016.049.rrr,"LANLLAN                [30,JC11]"
+R,192.016.050.rrr-192.016.071.rrr,"RPI-LOCALNETS           [30,MS9]"
+R,192.016.072.rrr   UTCHPC,"U.T. System CHPC       [30,WCB3]"
+R,192.016.073.rrr   UTDALLAS,"U.T. Dallas            [30,WCB3]"
+R,192.016.074.rrr   UTABRC,"U.T. Austin BRC        [30,WCB3]"
+C*,192.016.075.rrr-192.016.122.rrr,"CSC-BLOCK               [30,GXG]"
+R*,192.016.123.rrr-192.016.154.rrr,Swedish Network            [BXE]
+R*,192.016.155.rrr-192.016.166.rrr,CERN-Block                 [BXS]
+R,192.016.167.rrr   YALE-HP-NET,YALE-HP-NET               [RC77]
+D,192.016.168.rrr   PICANET3,Picatinny 3               [RFD1]
+D,192.016.169.rrr   NRL-HUBNET,Experimental Hubnet        [MPM]
+C,192.016.170.rrr   TWG-DEMO-NET,TWG Net for Demos         [JXS1]
+R,192.016.171.rrr   MACOM,M/A-COM Net                [JXA]
+C*,192.016.172.rrr   EIK-ENG,Eikonix Eng'rg Net         [SXW]
+D,192.016.173.rrr   CDA-LAN,Catalog Data Act LAN      [FJS3]
+R,192.016.174.rrr   LL-MICRO-NET,LL Microelectronics Net    [GLD]
+R,192.016.175.rrr   GUACC,GU Academic Net           [SXA1]
+R,192.016.176.rrr   LSUNET,LSU Campus Ethernet        [CXB]
+R,192.016.177.rrr   UABSURA,Univ Ala at Bham           [LXM]
+R*,192.016.178.rrr   NTT-Y-ETHER,NTT-Y-ETHER                [RXN]
+R*,192.016.179.rrr   NTT-Y-APOLLO,NTT-Y-APOLLO               [RXN]
+R,192.016.180.rrr   AMS,Amer. Math Society        [SXW1]
+R,192.016.181.rrr   LL-DSN-NET,LL Dist Sensor Net         [GAA]
+R*,192.016.182.rrr   GTICS-SUNS,GT ICS Faculty Suns        [GXS]
+R*,192.016.183.rrr-192.016.202.rrr,WCW-LAN                     [JA]
+R*,192.016.203.rrr   HCSC-SUN,Honeywell CSC SUN         [TRG4]
+R,192.016.204.rrr   IASNET,Inst for Adv Study         [KXJ]
+,192.016.205.rrr-192.016.255.rrr,Unassigned                 [NIC]
+R*,192.017.000.rrr-192.017.255.rrr,NIBELUNG                   [MXA]
+C*,192.018.000.rrr-192.018.255.rrr,"SUN Microsystems, Inc.     [BN4]"
+C*,192.019.000.rrr-192.019.255.rrr,SYSNET-2                   [EXY]
+C*,192.020.000.rrr-192.020.255.rrr,"ATT-MD-NET             [30,MH12]"
+C*,192.021.000.rrr-192.021.255.rrr,FORMATIVE                 [SXB1]
+C*,192.022.000.rrr-192.022.255.rrr,APPLICON                  [AXS1]
+C*,192.023.000.rrr-192.023.255.rrr,FACTNET                    [JXB]
+C*,192.024.000.rrr-192.024.255.rrr,CHROMATICS                [RXB2]
+R*,192.025.000.rrr-192.025.255.rrr,Hewlett Packard            [SXI]
+D*,192.026.000.rrr   ACSAD,ACSAD Network              [SXH]
+R,192.026.001.rrr   MCC-DB1-NET,MCC DB1 Network            [CBD]
+R,192.026.002.rrr   MCC-DB2-NET,MCC DB2 Network            [CBD]
+R,192.026.003.rrr   MCC-DB3-NET,MCC DB3 Network            [CBD]
+R,192.026.004.rrr   MCC-DB4-NET,MCC DB4 Network            [CBD]
+R,192.026.005.rrr   MCC-DB5-NET,MCC DB5 Network            [CBD]
+R,192.026.006.rrr   MCC-DB6-NET,MCC DB6 Network            [CBD]
+R,192.026.007.rrr   SPAWAR,SPARWAR Systems Command    [JK7]
+D,192.026.008.rrr   SAIC-CPVB,SAIC-CPVB                  [MXW]
+R*,192.026.009.rrr   ICOT,ICOT Local Network         [SXT]
+R,192.026.010.rrr   GALLAUDET,GALLAUDET UNIVERSITY       [KXC]
+D,192.026.011.rrr   NRL-HUBNET1,Experimental Hubnet 1      [MPM]
+D,192.026.012.rrr   NRL-HUBNET2,Experimental Hubnet 2      [MPM]
+D,192.026.013.rrr   NRL-HUBNET3,Experimental Hubnet 3      [MPM]
+D,192.026.014.rrr   NRL-HUBNET4,Experimental Hubnet 4      [MPM]
+D,192.026.015.rrr   NRL-HUBNET5,Experimental Hubnet 5      [MPM]
+D,192.026.016.rrr   NRL-HUBNET6,Experimental Hubnet 6      [MPM]
+D,192.026.017.rrr   NRL-HUBNET7,Experimental Hubnet 7      [MPM]
+D,192.026.018.rrr   NRL-HUBNET8,Experimental Hubnet 8      [MPM]
+D,192.026.019.rrr   NRL-HUBNET9,Experimental Hubnet 9      [MPM]
+R*,192.026.020.rrr   NJIT-NET,NJIT-SUPERCOMPUTER         [BXC]
+R,192.026.021.rrr   SDC-PRC-SW,SDC/PAOLI SOFT TECH       [MXS2]
+R,192.026.022.rrr   SDC-PRC-LBS,SDC/PAOLI ARTIF INT       [MXS2]
+R,192.026.023.rrr   SDC-PRC-SA,SDC/PAOLI SYS ARCH        [MXS2]
+R,192.026.024.rrr   SDC-PRC-CR,SDC/PAOLI COMP RES        [MXS2]
+R,192.026.025.rrr   LUCID,Lucid Network              [BXM]
+D,192.026.026.rrr   NRL-FIBER,NRL Fiber Optic Net        [WF3]
+R,192.026.027.rrr   ROCKEFELLER,"ROCKEFELLER UNIV       [30,MK38]"
+R*,192.026.028.rrr-192.026.047.rrr,EPFL                       [YXD]
+R*,192.026.048.rrr   DART-ETHER,Dartmouth Ethernet         [SXC]
+R*,192.026.049.rrr   DUNET,U of Denver Network       [BXS3]
+C*,192.026.050.rrr-192.026.082.rrr,Silicon Graphics Inc       [RXB]
+R*,192.026.083.rrr   CSM-NET,Colorado School of Mines   [RXW]
+R,192.026.084.rrr   NPRDC-FTC,NPRDC-FTC Remote Ethernet  [LRB]
+R,192.026.085.rrr   NUSAN,NU Supercomp Access Net   [EEW6]
+R,192.026.086.rrr   PHYSICS-SAC,NU Physics                [EEW6]
+R,192.026.087.rrr   MS-SAC,NU Material Science SAC   [EEW6]
+R,192.026.088.rrr   YALE-ENG-NET,YALE-ENG-NET               [LFO]
+D,192.026.089.rrr   JTELS-BEN1-GW,JTELS-BEN1-GW             [RR26]
+C*,192.026.090.rrr   SYNTELNET-A,Syntelligence IPNET-A      [RXR]
+R*,192.026.091.rrr   KDD,KDD Research Net           [TXA]
+R*,192.026.092.rrr   WRIGHT,Wright State University    [JXS]
+R*,192.026.093.rrr   AECL-NET,NTT Atsugi Lab Net         [TXK]
+R*,192.026.094.rrr   NTT-AP-NET,NTT ECL Appolo Net         [HXM]
+R,192.026.095.rrr   LL-VLSI-NET,Lincoln Lab VLSI Net       [AHA]
+R*,192.026.096.rrr   FX-NTC-NET2,FX-Tokyo-10BM-Net2         [SXY]
+C*,192.026.097.rrr   RCA-SNOOPY,Peanut Net                [RXR1]
+C*,192.026.098.rrr   TASC-CTC-NET,TASC Reading CTC Net      [RXR2]
+C,192.026.099.rrr   FAI,FAI Local Net            [MWS10]
+C,192.026.100.rrr   PROTEON-EXP1,Proteon Exp Net 1         [JS28]
+C,192.026.101.rrr   PROTEON-EXP2,Proteon Exp Net 2         [JS28]
+C,192.026.102.rrr   PROTEON-EXP3,Proteon Exp Net 3         [JS28]
+D,192.026.103.rrr   EXNET,CECOM Exp Net             [MB31]
+R*,192.026.104.rrr-192.026.135.rrr,FINLAND                    [JXH]
+R*,192.026.136.rrr   UW-TEMP,Univ. of Washington       [RA17]
+R,192.026.137.rrr-192.026.146.rrr,SYR-MH-NET                 [JXW]
+R,192.026.147.rrr   WLV-ETHER,ETN-WLV-ETHER             [SMS1]
+R,192.026.148.rrr   UMDNJ-NRAC,UMDNJ-NRAC NJMS            [LXM]
+R,192.026.149.rrr   LL43-LEX-SUNC,Grp43 Lexington Net C      [VXK]
+R,192.026.150.rrr   LL43-TB-SUNA,Grp43 Testbed Net A        [VXK]
+C*,192.026.151.rrr   LATICORP,LatiCorp Net               [CXC]
+,192.026.152.rrr-192.026.255.rrr,Unassigned                 [NIC]
+C*,192.027.000.rrr-192.027.255.rrr,Hughes Aircraft VLSI      [PXH1]
+C*,192.028.000.rrr-192.028.099.rrr,MMM                        [LXS]
+,192.028.100.rrr-192.028.255.rrr,Unassigned                 [NIC]
+C*,192.029.000.rrr-192.029.255.rrr,SUN-NET                    [BN4]
+,192.030.000.rrr-223.255.254.rrr,Unassigned                 [NIC]
+,223.255.255.rrr,Reserved                   [JBP]
+,224.000.000.000-239.255.255.255,"Multicast               [10,JBP]"
+,240.000.000.000-255.255.255.255,Reserved                   [JBP]

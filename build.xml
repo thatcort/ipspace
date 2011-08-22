@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="." default="build" name="IPSpace">
+    <property environment="env"/>
+    <property name="P5 SVN.location" value="../../processing/P5 SVN"/>
+    <property name="ECLIPSE_HOME" value="../../eclipse3.2"/>
+    <property name="env_var:PATH" value="env.PATH"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.5"/>
+    <property name="source" value="1.5"/>
+    <path id="IPSpace.classpath">
+        <pathelement location="bin"/>
+        <pathelement location="../lib/csv/opencsv-1.0/deploy/opencsv-1.0.jar"/>
+        <pathelement location="../lib/hsqldb/hsqldb1.8.0_1/lib/hsqldb.jar"/>
+        <pathelement location="../lib/javolution-3.7/javolution.jar"/>
+        <pathelement location="../lib/jakarta/commons-pool-1.2/commons-pool-1.2.jar"/>
+        <pathelement location="../lib/jakarta/commons-dbcp-1.2.1/commons-dbcp-1.2.1.jar"/>
+        <pathelement location="../lib/jakarta/commons-collections-3.1/commons-collections-3.1.jar"/>
+        <pathelement location="../../processing/processing-0118-expert/libraries/pdf/library/pdf.jar"/>
+        <pathelement location="../../processing/processing-0118-expert/libraries/pdf/library/itext.jar"/>
+        <pathelement location="${P5 SVN.location}/core/myCore.jar"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src" excludes="**/*.launch, **/*.java"/>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="IPSpace.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+    <target name="DataManager">
+        <java classname="com.liminal.ipspace.data.DataManager" failonerror="true" fork="yes">
+            <jvmarg line="-Xmx256m"/>
+            <classpath refid="IPSpace.classpath"/>
+        </java>
+    </target>
+    <target name="DataMonger">
+        <java classname="com.liminal.ipspace.DataMonger" failonerror="true" fork="yes">
+            <jvmarg line="-Xmx512m -server"/>
+            <arg line="-db:file:data/mongerTest/whois -minlevel:3"/>
+            <classpath refid="IPSpace.classpath"/>
+        </java>
+    </target>
+    <target name="IPSpace App - Monger Data">
+        <java classname="com.liminal.ipspace.IPSpace" failonerror="true" fork="yes">
+            <jvmarg line="-Xmx600m"/>
+            <arg line="-db:file:data/mongerTest/whois"/>
+            <classpath refid="IPSpace.classpath"/>
+        </java>
+    </target>
+    <target name="IPSpace Application">
+        <java classname="com.liminal.ipspace.IPSpace" failonerror="true" fork="yes">
+            <jvmarg line="-Xmx600m -server"/>
+            <classpath refid="IPSpace.classpath"/>
+        </java>
+    </target>
+    <target name="IPSpace">
+        <java classname="sun.applet.AppletViewer" dir="IPSpace" failonerror="true" fork="yes">
+            <jvmarg line="-Xmx750m -server -Djava.library.path=&quot;${env_var:PATH};C:\processing\processing-0106-expert\libraries\opengl\library&quot;"/>
+            <arg line="IPSpace.html"/>
+            <classpath refid="IPSpace.classpath"/>
+        </java>
+    </target>
+    <target name="IPSpace1">
+        <java classname="sun.applet.AppletViewer" dir="." failonerror="true" fork="yes">
+            <jvmarg line="-Xmx512m"/>
+            <arg line="IPSpace1.html"/>
+            <classpath refid="IPSpace.classpath"/>
+        </java>
+    </target>
+    <target name="PickTester">
+        <java classname="sun.applet.AppletViewer" dir="." failonerror="true" fork="yes">
+            <arg line="PickTester.html"/>
+            <classpath refid="IPSpace.classpath"/>
+        </java>
+    </target>
+</project>
